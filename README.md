@@ -1,0 +1,1 @@
+# stan-gold-images
